@@ -3,7 +3,7 @@
 // =====================================================
 
 const CONFIG = {
-  telegram : "CLEVASDIAL1",
+  telegram : "opendealnow",
   zangi    : "6970835383",
   zangiUrl : "https://services.zangi.com/dl/conversation/6970835383",
 };
